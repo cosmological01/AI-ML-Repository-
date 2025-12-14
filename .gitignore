@@ -1,0 +1,11 @@
+# Ignore Jupyter Notebook Checkpoints (temp folders)
+.ipynb_checkpoints/
+
+# You can also add other common temporary/compiled files here, e.g.:
+# Compiled Python bytecode
+__pycache__/
+*.pyc
+
+# Local project environments
+.venv/
+venv/
